@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 
-I’m a first-year undergraduate student from the School of Applied Sciences, [Macao Polytechnic University](mpu.edu.mo/). My academic interests include artificial intelligence, programming and math
+I’m a first-year undergraduate student from the School of Applied Sciences, [Macao Polytechnic University](mpu.edu.mo/). My academic interests include artificial intelligence, programming and math...
 
 A data-driven personal website
 ======
