@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\Users\枫\Desktop\微信图片_20251124184219_80_2.jpg"
+  avatar           : talkmap/"C:\Users\枫\Desktop\微信图片_20251124184219_80_2.jpg"
   name             : WANGZISHUO(王子硕)
   pronouns         : he/his 
   bio              : A first-year student majoring in artificial intelligence at Macau Polytechnic University
